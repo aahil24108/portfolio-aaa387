@@ -7,8 +7,13 @@
 ## Education 
 B.S., Mechanical Engineering, Cornell University Class of 2027
 
+## Class Projects
+
+Please view my final class homework for Mechanics of Material (MAE 3270):[Final Project](https://docs.google.com/document/d/1XQq8LvWk3yK_WMfHczyaU1lFswXEeakalE5Da8aBWlI/edit?usp=sharing)
+
+
 ## Work Experience
-**Director of Restaurant Operations @ Flame Broiler Restaurant (_January 2020 – June  2023_)**
+**HydroClip, Product design & Developer, Personal Project  (_May 2025 – Aug  2025_)**
 - Raised funding for the restaurant by applying for government grants and loans and worked as a cashier for 10-20 hours per week 
 - Optimized weekly inventory levels, reducing spoilage by analyzing customer preferences and purchasing patterns 
 - Implemented employee training programs focused on customer service and food safety, resulting in positive customer feedback
