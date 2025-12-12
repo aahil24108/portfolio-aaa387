@@ -10,7 +10,7 @@ B.S., Mechanical Engineering, Cornell University Class of 2027
 ## Class Projects
 
 Please view my final class homework for Mechanics of Material (MAE 3270): [Final Project](https://docs.google.com/document/d/1XQq8LvWk3yK_WMfHczyaU1lFswXEeakalE5Da8aBWlI/edit?usp=sharing)
-Please view my final project for Systems Dynamics (MAE 3260): Final Project](https://docs.google.com/document/d/1foi2s8i6zV3oaAJQCmGNfyazv6qLkuF5/edit?usp=sharing&ouid=109682989027338755165&rtpof=true&sd=true)
+Please view my final project for Systems Dynamics (MAE 3260): [Final Project](https://docs.google.com/document/d/1foi2s8i6zV3oaAJQCmGNfyazv6qLkuF5/edit?usp=sharing&ouid=109682989027338755165&rtpof=true&sd=true)
 
 
 ## Work Experience
