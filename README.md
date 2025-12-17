@@ -13,6 +13,8 @@ Please view my final class homework for Mechanics of Material (MAE 3270): [Final
 
 Please view my final project for Systems Dynamics (MAE 3260): [Final Project](https://docs.google.com/document/d/1foi2s8i6zV3oaAJQCmGNfyazv6qLkuF5/edit?usp=sharing&ouid=109682989027338755165&rtpof=true&sd=true)
 
+Please view my final project for Fluid Mechanics (MAE 3230): [Final Project](https://youtu.be/sVpQv9G_dB8)
+
 
 ## Work Experience
 **HydroClip, Product design & Developer, Personal Project  (_May 2025 – Aug  2025_)**
